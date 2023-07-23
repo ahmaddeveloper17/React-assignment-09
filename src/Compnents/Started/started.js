@@ -1,4 +1,4 @@
-import img from '../asserts/Screenshot-20230720225657.png'
+import img1 from '../asserts/Image Placeholder.png'
 function Started() {
     return (
       <div>
@@ -19,7 +19,7 @@ function Started() {
             </div>
             <div className="col-lg-1" />
             <div className="col">
-              <img src={img} alt="" style={{borderRadius: '8%', width: '110%'}} />
+              <img src={img1} alt="" style={{borderRadius: '8%', width: '110%'}} />
             </div>
             <div className="col-lg-2" />
           </div>

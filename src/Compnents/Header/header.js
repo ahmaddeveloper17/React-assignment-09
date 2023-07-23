@@ -1,10 +1,10 @@
-import img from "../asserts/Screenshot-20230720202651.png"
+import img1 from "../asserts/Screenshot-20230720202651.png"
 function Header() {
     return(
         <div>
               <nav className="navbar bg-body-tertiary">
         <div className="container-fluid" style={{backgroundColor: 'rgb(46, 45, 45)'}}>
-          <a className="navbar-brand"><img src={img} style={{width: '70%'}} /></a>
+          <a className="navbar-brand"><img src={img1} style={{width: '70%'}} /></a>
           <p style={{color: 'aliceblue'}}>Marketplace</p>
           <p style={{color: 'aliceblue'}}>Rankings</p>
           <p style={{color: 'aliceblue'}}>Connect a wallet</p>
